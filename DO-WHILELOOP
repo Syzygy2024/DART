@@ -1,0 +1,6 @@
+int i = 0;
+void main(){
+    do {
+        print('This is a do while loop');    
+    } while (i < 4);
+}
